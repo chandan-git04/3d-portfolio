@@ -6,19 +6,6 @@ Live site: [https://chandanpanigrahi.netlify.app/](https://chandanpanigrahi.netl
 
 ![Portfolio Preview](public/images/preview1.png)
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Available Scripts](#available-scripts)
-- [GSAP License Note](#gsap-license-note)
-- [Customization Guide](#customization-guide)
-- [Troubleshooting](#troubleshooting)
-- [Deployment](#deployment)
-- [License](#license)
-
 ## Features
 
 - Responsive one-page portfolio layout with reusable section components.
